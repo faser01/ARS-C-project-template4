@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARS C++ project template4", "ARS C++ project template4.vcxproj", "{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Debug|x64.ActiveCfg = Debug|x64
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Debug|x64.Build.0 = Debug|x64
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Debug|x86.ActiveCfg = Debug|Win32
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Debug|x86.Build.0 = Debug|Win32
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Release|x64.ActiveCfg = Release|x64
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Release|x64.Build.0 = Release|x64
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Release|x86.ActiveCfg = Release|Win32
+		{83DB1CAE-D7D4-4CC2-8AA9-EDA89F43C434}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3393C46-E43B-4032-86F6-998A90F42E7B}
+	EndGlobalSection
+EndGlobal
